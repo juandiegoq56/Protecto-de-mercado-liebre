@@ -173,7 +173,7 @@ main section article i{
     position: absolute;
     right: 20px;
     top: -15px;
-    transition: transform 2s ease-in;
+    transition: transform 1s ease-in;
 }
 
 main h4{
