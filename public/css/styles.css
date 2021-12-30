@@ -207,9 +207,7 @@ h2,h4.descripcion{
 
 
 /*FOOTER*/
-.pie_de_pagina{
-    display: flex;
-}
+
 div.pie_de_pagina,div.pie_de_pagina i{
     padding-top: 13px;
     padding-bottom: 12px;
@@ -236,7 +234,9 @@ div.pie_de_pagina i{
     header nav{
         display: block;
     }
-    
+    .pie_de_pagina{
+        display: flex;
+    }
     div.burger-menu{
         display: none;
     }
