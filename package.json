@@ -6,7 +6,7 @@
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Manuel Ropero",
+  "author": "Juan Diego Quintero Peralta",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
